@@ -1,6 +1,6 @@
 # Get Grass Multi Account 100% Uptime FREE Python Bot
 
-This Python Bot script manages WebSocket connections through specified SOCKS5 proxies, Unlimited Proxies and multiple get grass Accounts handling authentication and maintaining persistent connections with a server. The script also includes functionality to periodically send ping messages to keep the connection alive forever.
+This Python Bot script manages WebSocket connections through specified SOCKS5 proxies, Unlimited Proxies and multiple get grass Accounts handling authentication and maintaining persistent connections with a server. The script also includes functionality to periodically send ping messages to keep the connection alive forever. If you can run your pc 24/7 then you dont need a Vps or proxy server lol
 
 ## Features
 
