@@ -6,7 +6,7 @@ This Python Bot script manages WebSocket connections through specified SOCKS5 pr
 
 - Connects to a WebSocket server using SOCKS5 proxies.
 - Handles Multiple Get Grass User IDs at once !! Multiple Proxies (1 Proxy ~1500 $GRASS)
-- Per Proxy ~1500 $Grass per day ~2.25$ PER DAY !! Unlimited proxies Make Unlimited Money !
+- Per Proxy ~1500 **$Grass per day** ~2.25$ PER DAY !! Unlimited proxies Make Unlimited Money !
 
 #Get User Id 
 
@@ -32,6 +32,7 @@ This Python Bot script manages WebSocket connections through specified SOCKS5 pr
 
 - Invitation link Get Grass Accounts ( https://app.getgrass.io/register/?referralCode=ZJBYJraDQBJD4ZX )
 - Python (install Python By - https://www.python.org/downloads/ [windows/mac]) or Ubuntu Server [`sudo apt install python3`]
+- VPS Server ! You can get Via AWS free Tier or Google Free tier or Gitpod or any online for just ~ 2-5$ per month
 - Proxy Server - Buy Only Residential Proxies to Earn $GRASS else you will earn 0% on data Centers / Free Cheap proxies (Best proxy providers are)
 - Proxies.fo -  https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba [Buy Only 1GB Plan Enough for 1-6 months and you get Unlimited Accounts or proxies]
 - Get User ID from Grass Dashboard
